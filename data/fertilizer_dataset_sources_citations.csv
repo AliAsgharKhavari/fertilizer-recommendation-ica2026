@@ -1,0 +1,18 @@
+Crop,GRD_N_kg_ha,GRD_P2O5_kg_ha,GRD_K2O_kg_ha,Scientific_Source_Citation,Confidence
+Rice,120,60,40,"ICAR-NRRI Cuttack; used as ""100% RDF"" across multiple ICAR studies (irrigated rice). https://icar-crri.in",HIGH
+Wheat,120,60,40,"ICAR-Indian Institute of Soil Science (IISS), Bhopal — soybean-wheat system RDF. https://iiss.icar.gov.in",HIGH
+Maize,120,60,30,"ICAR-Indian Institute of Soil Science (IISS), Bhopal — explicit General Recommended Dose (GRD). https://iiss.icar.gov.in",HIGH
+Sorghum,80,40,40,"AICRP on Sorghum, ICAR-Indian Institute of Millets Research (IIMR), Hyderabad. https://aicrp.icar.gov.in/sorghum",HIGH
+Bajra (Pearl millet),80,40,40,"AICPMIP (All India Coordinated Pearl Millet Improvement Project), ICAR, Jodhpur; peer-reviewed Rajasthan trials. https://aicrp.icar.gov.in/pearl",HIGH
+Ragi (Finger millet),40,20,20,Peer-reviewed rainfed Alfisols S. India (100% RDF); UAS Bangalore AICRP. ,HIGH
+Chickpea,20,60,20,"ICAR-Indian Institute of Soil Science (IISS), Bhopal — explicit GRD (maize-chickpea system). https://iiss.icar.gov.in",HIGH
+Mungbean (Greengram),20,40,20,"Govt. of India, Directorate of Pulses Development — Ready Reckoner of Pulses (2020): pulse RDF includes K2O 17-20 kg/ha. https://dpd.gov.in/Ready%20Reckoner%20Pulses%202020%20(English).pdf",HIGH
+Blackgram,20,40,40,Recommended dose for black gram 20:40:40 NPK/ha (multiple Indian agronomy sources); peer-reviewed dryland Vertisol trials (Dr. PDKV Akola) use 20:40:20 base RDF. Govt Ready Reckoner of Pulses confirms K inclusion. https://dpd.gov.in,HIGH
+Soybean,20,60,20,"ICAR-Indian Institute of Soil Science (IISS), Bhopal. https://iiss.icar.gov.in",HIGH
+Groundnut,20,50,30,"ICAR-Central Coastal Agricultural Research Institute (CCARI), Goa — official DSS. https://ccari.icar.gov.in",HIGH
+Cotton,25,50,25,ICAR Kharif Agro-Advisory 2025 (irrigated Bt cotton). https://icar.org.in,HIGH
+Sunflower,60,90,60,"AICRP-Sunflower, ICAR-Indian Institute of Oilseeds Research (IIOR) / UAS Bangalore. https://aicrp.icar.gov.in/sunflower",HIGH
+Chilli,100,50,50,RDF cited in ICAR-linked Karnataka STCR revalidation study (100:50:50). ,HIGH
+Onion,100,50,50,"ICAR-Directorate of Onion & Garlic Research (DOGR), Pune. https://dogr.icar.gov.in",HIGH
+Tomato,120,80,80,ICAR-Indian Institute of Horticultural Research (IIHR) referenced RDF. https://jhs.iihr.res.in,HIGH
+Coriander,40,20,20,Seed-spice RDF norm (ICAR-NRCSS Ajmer range); STCR coriander study (PLOS One 2026) confirms method applicability.,MEDIUM

@@ -1,0 +1,9 @@
+scikit-learn==1.6.1
+xgboost==3.3.0
+lightgbm==4.6.0
+catboost==1.2.10
+scipy==1.16.3
+scikit-posthocs>=0.9
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
